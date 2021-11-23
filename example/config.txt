@@ -1,0 +1,2 @@
+Prefix plugins/MultiomicScreen/example
+Plugin MultiomicScreen inputfile parameters.txt outputfile corr.screened.csv
